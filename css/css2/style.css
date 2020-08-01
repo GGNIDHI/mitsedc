@@ -39,9 +39,7 @@ z-index:-1;
 display:none
 }
 
-@medai (max-width:600px){
-	.testimonial-slider{
-		top:60px;}}
+
 
 @media (min-width: 992px){.testimonial-slider::after{display:block}}
 @media (min-width: 1200px){
@@ -52,7 +50,7 @@ transform:scale(1)
 }}
 
 .testimonial-slider .testimonial-item{
-margin-top:60px
+margin-top:150px
 }
 
 @media (min-width: 992px){
