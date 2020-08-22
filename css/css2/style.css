@@ -3,9 +3,11 @@ margin-bottom: -100px;}
 
 
 @media (min-width: 600px){
-	.testimonial_area{padding-bottom:0px}
+	.testimonial_area{padding-bottom:50px}
 	}
-
+@meedia (min-width: 900px){
+	.testimonial_area{
+		padding-bottom:0px}}
 @media (min-width: 1200px){
 	.testimonial_area{padding-bottom:0px}
 }
